@@ -1,5 +1,5 @@
 {
-  "name": "@shyftnetwork/ethereumjs-abi",
+  "name": "@shyftnetwork/shyft_ethereumjs-abi",
   "version": "0.7.0",
   "description": "Decoder and encoder for the Ethereum ABI",
   "main": "index.js",
